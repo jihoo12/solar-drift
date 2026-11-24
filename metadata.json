@@ -1,0 +1,6 @@
+{
+  "name": "솔라 드리프트 3D",
+  "description": "협곡을 질주하며 부스트 링을 통과하고 장애물을 피하는 3D 호버제트 아케이드 레이싱 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
